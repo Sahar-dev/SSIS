@@ -29,7 +29,7 @@ Before getting started, ensure the following are installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/ssis-purchase-etl.git
+   https://github.com/Sahar-dev/SSIS.git
 2. Open the SSIS project in SQL Server Data Tools.
 
 3. Update connection strings and configurations in SSIS packages as needed.
