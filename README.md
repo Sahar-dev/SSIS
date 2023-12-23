@@ -3,7 +3,7 @@
 ## Introduction
 
 Welcome to the SSIS Purchase Data ETL (Extract, Transform, Load) project. This project aims to implement a robust ETL process using SQL Server Integration Services (SSIS) to extract data from the AdventureWorks database, transform it, and load it into a Data Warehouse named "Datawarehouse." The Data Warehouse will serve as a foundation for creating insightful dashboards on purchasing activities.
-![project scheme](./images/star.PNG)
+![project scheme](https://github.com/Sahar-dev/SSIS/blob/main/images/Star.PNG)
 
 ## Features
 
